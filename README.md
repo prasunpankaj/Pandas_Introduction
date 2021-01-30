@@ -3,3 +3,5 @@
 # Pandas Profiling
 # Sweetviz
 # Model Building
+#LogisticRegression
+#Confusion Matrix
